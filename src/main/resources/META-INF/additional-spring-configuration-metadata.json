@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "student.id",
+      "type": "java.lang.String",
+      "description": "Description for student.id.",
+      "defaultValue": "1"
+    },
+    {
+      "name": "student.name",
+      "type": "java.lang.String",
+      "description": "Description for student.name.",
+      "defaultValue": "张三"
+    }
+  ]
+}

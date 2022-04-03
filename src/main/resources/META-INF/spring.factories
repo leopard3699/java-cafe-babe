@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=week05.p08.config.AutoStarterConfiguration
